@@ -1,5 +1,5 @@
 # I2_projet_big_data
-This repo concerns my academic big data project, the theme of which was transport. It involved processing the data with #PySPARK# , and doing descriptive and predictive analysis with the #python pandas library#.
+This repo concerns my academic big data project, the theme of which was transport. It involved processing the data with #PySPARK# , and doing descriptive and predictive analysis with the python #pandas library#.
 
 The scripts in the 'explore_clean_usa_tranport.ipynb' notebook are used to explore and clean the dataset and create a new CSV file containing the cleaned and modified data.
 
